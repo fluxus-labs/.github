@@ -4,8 +4,8 @@
 
 # Fluxus Stream Processing Engine
 
-[![Crates.io](https://img.shields.io/crates/v/fluxus-core.svg)](https://crates.io/crates/fluxus-core)
-[![Documentation](https://docs.rs/fluxus-core/badge.svg)](https://docs.rs/fluxus-core)
+[![Crates.io](https://img.shields.io/crates/v/fluxus.svg)](https://crates.io/crates/fluxus)
+[![Documentation](https://docs.rs/fluxus/badge.svg)](https://docs.rs/fluxus)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](https://opensource.org/license/apache-2-0)
 [<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/lispking/fluxus/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/lispking/fluxus/actions?query=branch%3Amain)
 
